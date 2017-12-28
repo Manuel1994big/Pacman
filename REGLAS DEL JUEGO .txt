@@ -1,0 +1,9 @@
+objetivo: pacman tiene que comer las cerezas y ganara puntos 
+jugabilidad: mediante el acelerometro moveremos a PACMAN
+
+puntos:
+-al comer las cerezas gana 7 puntos
+-al comer un fantasma pierde 5 puntos 
+- al tocar los bordes pierde 1 punto 
+
+HECHO POR: Manuel Guiracocha
